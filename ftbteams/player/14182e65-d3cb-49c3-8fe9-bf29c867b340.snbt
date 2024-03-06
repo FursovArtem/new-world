@@ -1,0 +1,17 @@
+{
+	id: "14182e65-d3cb-49c3-8fe9-bf29c867b340"
+	type: "player"
+	player_name: "Clown"
+	ranks: {
+		14182e65-d3cb-49c3-8fe9-bf29c867b340: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Clown"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF598A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

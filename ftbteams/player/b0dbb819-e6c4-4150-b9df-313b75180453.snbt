@@ -1,0 +1,17 @@
+{
+	id: "b0dbb819-e6c4-4150-b9df-313b75180453"
+	type: "player"
+	player_name: "imsorry"
+	ranks: {
+		b0dbb819-e6c4-4150-b9df-313b75180453: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "imsorry"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59AC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
